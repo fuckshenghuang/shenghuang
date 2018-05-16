@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Fuck 盛煌美容院
 
 You can use the [editor on GitHub](https://github.com/fuckshenghuang/shenghuang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
